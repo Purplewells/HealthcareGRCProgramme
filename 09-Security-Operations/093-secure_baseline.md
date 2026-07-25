@@ -3,7 +3,6 @@
 **Organisation:** Westbridge Hospitals Trust (WHT)
 **Document Type:** Secure Configuration Baseline Standard
 **Owner:** Infrastructure Manager
-**Classification:** Portfolio Case Study – Fictional Organisation
 **Version:** 1.0
 
 

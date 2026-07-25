@@ -3,7 +3,6 @@
 **Organisation:** Westbridge Hospitals Trust (WHT)
 **Document Type:** Policy
 **Owner:** Procurement Director
-**Classification:** Portfolio Case Study – Fictional Organisation
 **Version:** 1.0
 **Effective Date:** 2026-07-23
 **Review Date:** 2027-07-23

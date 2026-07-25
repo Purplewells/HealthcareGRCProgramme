@@ -3,7 +3,6 @@
 **Organisation:** Westbridge Hospitals Trust (WHT)
 **Document Type:** Threat Intelligence Process
 **Owner:** CISO
-**Classification:** Portfolio Case Study – Fictional Organisation
 **Version:** 1.0
 
 

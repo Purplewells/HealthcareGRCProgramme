@@ -2,7 +2,6 @@
 **Organisation:** Westbridge Hospitals Trust (WHT)  
 **Document Type:** Cyber Risk Register  
 **Owner:** Chief Information Security Officer (CISO)  
-**Classification:** Portfolio Case Study – Fictional Organisation  
 **Version:** 1.0  
 
 ---

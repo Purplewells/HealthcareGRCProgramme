@@ -3,7 +3,6 @@
 **Organisation:** Westbridge Hospitals Trust (WHT)  
 **Document Type:** Data Flow Diagram (Trust Boundary Model)  
 **Owner:** Data Protection Officer (DPO) / Information Governance Team  
-**Classification:** Portfolio Case Study – Fictional Organisation  
 **Version:** 1.0  
 
 ## Purpose

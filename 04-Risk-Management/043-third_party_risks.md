@@ -3,7 +3,6 @@
 **Organisation:** Westbridge Hospitals Trust (WHT)
 **Document Type:** Domain Risk Assessment — Third-Party / Supplier
 **Owner:** Procurement Director
-**Classification:** Portfolio Case Study – Fictional Organisation
 **Version:** 1.0
 
 ## 1. Introduction

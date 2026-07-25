@@ -2,7 +2,6 @@
 
 **Project:** Project SentinelCare - Cyber Security Governance, Risk and Compliance Improvement Programme
 **Document Type:** Project Objectives
-**Classification:** Portfolio Case Study – Fictional Organisation
 **Version:** 1.0
 
 # 1. Purpose

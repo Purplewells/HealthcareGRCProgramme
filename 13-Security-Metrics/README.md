@@ -2,15 +2,11 @@
 
 [⬅ Programme Navigation](../NAVIGATION.md) | Previous: [12 — Azure Governance](../12-Azure-Governance/README.md) | Next: [14 — RoadMap ➡](../14-RoadMap/README.md)
 
-KPI definitions and PowerBI-based executive/compliance/supplier dashboards. Only stub titles exist so far.
+KPI definitions and PowerBI-based executive/compliance/supplier dashboards, written in plain language for the Trust Board and other non-technical readers.
 
 | Document | Status | Description |
 |---|---|---|
-| [KPI_Definitions](KPI_Definitions.md) | ⬜ | Not started |
-| [PowerBI_Dashboard/001-cyber_risk_dashboard](PowerBI_Dashboard/001-cyber_risk_dashboard.md) | 🚧 | Title + file list only |
-| [PowerBI_Dashboard/002-executive_dashboard](PowerBI_Dashboard/002-executive_dashboard.md) | 🚧 | Title only |
-| [PowerBI_Dashboard/003-compliance_dshboard](PowerBI_Dashboard/003-compliance_dshboard.md) | 🚧 | Title only |
-| [PowerBI_Dashboard/004-supplier_risk_dashboard](PowerBI_Dashboard/004-supplier_risk_dashboard.md) | 🚧 | Title only |
-| [PowerBI_Dashboard/005-kpi_definitions](PowerBI_Dashboard/005-kpi_definitions.md) | ⬜ | Not started |
+| [131-kpi_definitions](131-kpi_definitions.md) | ✅ | What each security KPI measures, why it matters, and what "good" looks like |
+| [132-powerbi_dashboards](132-powerbi_dashboards.md) | ✅ | The four dashboards (Executive, Cyber Risk, Compliance, Supplier Risk) — who each is for and what it shows |
 
 **Status legend:** ✅ Complete · 🚧 Draft/Stub · ⬜ Not Started

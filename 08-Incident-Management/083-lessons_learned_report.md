@@ -3,7 +3,6 @@
 **Organisation:** Westbridge Hospitals Trust (WHT)  
 **Document Type:** Lessons Learned Report  
 **Owner:** Chief Information Security Officer (CISO)  
-**Classification:** Portfolio Case Study – Fictional Organisation  
 **Version:** 1.0  
 
 

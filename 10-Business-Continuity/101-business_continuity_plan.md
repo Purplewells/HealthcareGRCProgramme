@@ -3,7 +3,6 @@
 **Organisation:** Westbridge Hospitals Trust (WHT)
 **Document Type:** Business Continuity Plan
 **Owner:** Business Continuity Manager
-**Classification:** Portfolio Case Study – Fictional Organisation
 **Version:** 1.0
 
 

@@ -4,7 +4,6 @@
 **Document Type:** Data Protection Impact Assessment  
 **Owner:** Data Protection Officer (DPO)  
 **Assessment Status:** Draft Assessment  
-**Classification:** Portfolio Case Study – Fictional Organisation  
 **Version:** 1.0  
 
 ---
