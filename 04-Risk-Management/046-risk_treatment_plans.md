@@ -3,7 +3,6 @@
 **Organisation:** Westbridge Hospitals Trust (WHT)
 **Document Type:** Risk Treatment Plans
 **Owner:** Chief Information Security Officer (CISO)
-**Classification:** Portfolio Case Study – Fictional Organisation
 **Version:** 1.0
 
 ## 1. Introduction

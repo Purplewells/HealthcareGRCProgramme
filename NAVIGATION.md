@@ -35,10 +35,11 @@ New to the programme? Read in this order:
 | 09 | [Security Operations](09-Security-Operations/README.md) | ✅ Complete | 4/4 documents |
 | 10 | [Business Continuity](10-Business-Continuity/README.md) | ✅ Complete | 2/2 documents |
 | 11 | [Audit](11-Audit/README.md) | ✅ Complete | 3/3 documents |
-| 12 | [Azure Governance](12-Azure-Governance/README.md) | ⬜ Not Started | 0/3 documents |
-| 13 | [Security Metrics](13-Security-Metrics/README.md) | 🚧 Partial | 0/6 documents (4 stub titles) |
-| 14 | [RoadMap](14-RoadMap/README.md) | ⬜ Not Started | 0/4 documents |
-| 15 | [Evidence](15-Evidence/README.md) | ⬜ Not Started | 0 files (3 empty folders) |
+| 12 | [Azure Governance](12-Azure-Governance/README.md) | ✅ Complete | 3/3 documents |
+| 13 | [Security Metrics](13-Security-Metrics/README.md) | ✅ Complete | 2/2 documents |
+| 14 | [RoadMap](14-RoadMap/README.md) | ✅ Complete | 4/4 documents |
+| 15 | [Evidence](15-Evidence/README.md) | ✅ Complete | 3 diagrams + 2 index READMEs |
+| — | [016-ProjectOverview](016-ProjectOverview/README.md) | ✅ Complete | Portfolio retrospective — outside the fictional case study, for recruiters |
 
 ## Full Document Index
 
@@ -155,37 +156,33 @@ New to the programme? Read in this order:
 
 | Document | Status | Description |
 |---|---|---|
-| [Azure_Governance_Assessment](12-Azure-Governance/Azure_Governance_Assessment.md) | ⬜ | Not started |
-| [Conditional_Access_Policies](12-Azure-Governance/Conditional_Access_Policies.md) | ⬜ | Not started |
-| [Secure_Score_Review](12-Azure-Governance/Secure_Score_Review.md) | ⬜ | Not started |
+| [121-azure_governance_assessment](12-Azure-Governance/121-azure_governance_assessment.md) | ✅ | Complete |
+| [122-conditional_access_policies](12-Azure-Governance/122-conditional_access_policies.md) | ✅ | Complete |
+| [123-secure_score_review](12-Azure-Governance/123-secure_score_review.md) | ✅ | Complete |
 
 ### 13 — Security Metrics
 
 | Document | Status | Description |
 |---|---|---|
-| [KPI_Definitions](13-Security-Metrics/KPI_Definitions.md) | ⬜ | Not started |
-| [PowerBI_Dashboard/001-cyber_risk_dashboard](13-Security-Metrics/PowerBI_Dashboard/001-cyber_risk_dashboard.md) | 🚧 | Title + file list only |
-| [PowerBI_Dashboard/002-executive_dashboard](13-Security-Metrics/PowerBI_Dashboard/002-executive_dashboard.md) | 🚧 | Title only |
-| [PowerBI_Dashboard/003-compliance_dshboard](13-Security-Metrics/PowerBI_Dashboard/003-compliance_dshboard.md) | 🚧 | Title only |
-| [PowerBI_Dashboard/004-supplier_risk_dashboard](13-Security-Metrics/PowerBI_Dashboard/004-supplier_risk_dashboard.md) | 🚧 | Title only |
-| [PowerBI_Dashboard/005-kpi_definitions](13-Security-Metrics/PowerBI_Dashboard/005-kpi_definitions.md) | ⬜ | Not started |
+| [131-kpi_definitions](13-Security-Metrics/131-kpi_definitions.md) | ✅ | Complete |
+| [132-powerbi_dashboards](13-Security-Metrics/132-powerbi_dashboards.md) | ✅ | Complete |
 
 ### 14 — RoadMap
 
 | Document | Status | Description |
 |---|---|---|
-| [cyber_security_roadmap](14-RoadMap/cyber_security_roadmap.md) | ⬜ | Not started (whitespace only) |
-| [12_month_improvement_plan](14-RoadMap/12_month_improvement_plan.md) | ⬜ | Not started |
-| [investment_priorities](14-RoadMap/investment_priorities.md) | ⬜ | Not started |
-| [quick_wins](14-RoadMap/quick_wins.md) | ⬜ | Not started |
+| [141-cyber_security_roadmap](14-RoadMap/141-cyber_security_roadmap.md) | ✅ | Complete |
+| [142-12_month_improvement_plan](14-RoadMap/142-12_month_improvement_plan.md) | ✅ | Complete |
+| [143-investment_priorities](14-RoadMap/143-investment_priorities.md) | ✅ | Complete |
+| [144-quick_wins](14-RoadMap/144-quick_wins.md) | ✅ | Complete |
 
 ### 15 — Evidence
 
 | Document | Status | Description |
 |---|---|---|
-| [Diagrams/](15-Evidence/Diagrams/) | ⬜ | Empty folder |
-| [Screenshots/](15-Evidence/Screenshots/) | ⬜ | Empty folder |
-| [Supporting_Documentation/](15-Evidence/Supporting_Documentation/) | ⬜ | Empty folder |
+| [15-02-Diagrams/](15-Evidence/15-02-Diagrams/) | ✅ | 3 Mermaid architecture/governance diagrams |
+| [15-03-Screenshots/](15-Evidence/15-03-Screenshots/) | ⬜ | Index only, see folder README |
+| [15-01-Supporting-Documentation/](15-Evidence/15-01-Supporting-Documentation/) | ✅ | 2 reusable templates (supplier assurance questionnaire, CSGG minutes) |
 
 ## Known Cross-Reference Gap
 

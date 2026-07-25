@@ -3,7 +3,6 @@
 **Organisation:** Westbridge Hospitals Trust (WHT)
 **Document Type:** Internal Audit Report
 **Owner:** Head of Internal Audit
-**Classification:** Portfolio Case Study – Fictional Organisation
 **Version:** 1.0
 
 

@@ -3,7 +3,6 @@
 **Organisation:** Westbridge Hospitals Trust (WHT)
 **Document Type:** Disaster Recovery Plan
 **Owner:** Infrastructure Manager
-**Classification:** Portfolio Case Study – Fictional Organisation
 **Version:** 1.0
 
 

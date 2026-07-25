@@ -1,7 +1,6 @@
 # Assumptions and Constraints
  
 **Document Type:** Project Assumptions and Constraints  
-**Classification:** Portfolio Case Study – Fictional Organisation  
 **Version:** 1.0  
 
 # 1. Purpose

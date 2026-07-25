@@ -3,7 +3,6 @@
 **Organisation:** Westbridge Hospitals Trust (WHT)
 **Document Type:** ISO/IEC 27001:2022 Conformance Assessment
 **Owner:** Chief Information Security Officer (CISO)
-**Classification:** Portfolio Case Study – Fictional Organisation
 **Version:** 1.0
 
 ## 1. Introduction

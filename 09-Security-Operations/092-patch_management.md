@@ -3,7 +3,6 @@
 **Organisation:** Westbridge Hospitals Trust (WHT)
 **Document Type:** Patch Management Policy and Process
 **Owner:** Infrastructure Manager
-**Classification:** Portfolio Case Study – Fictional Organisation
 **Version:** 1.0
 
 

@@ -1,7 +1,6 @@
 # Business Context
 
 **Document Type:** Business Context  
-**Classification:** Portfolio Case Study – Fictional Organisation  
 **Version:** 1.0  
 
 # 1. Introduction

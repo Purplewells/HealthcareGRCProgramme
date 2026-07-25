@@ -3,7 +3,6 @@
 **Organisation:** Westbridge Hospitals Trust (WHT)
 **Document Type:** Asset Management Overview
 **Owner:** Chief Information Security Officer (CISO)
-**Classification:** Portfolio Case Study – Fictional Organisation
 **Version:** 1.1
 
 # 1. Purpose

@@ -3,7 +3,6 @@
 **Organisation:** Westbridge Hospitals Trust (WHT)
 **Document Type:** Current State Assessment (Programme Overview)
 **Owner:** Chief Information Security Officer (CISO)
-**Classification:** Portfolio Case Study – Fictional Organisation
 **Version:** 1.0
 
 ## 1. Introduction
