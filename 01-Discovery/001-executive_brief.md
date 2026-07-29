@@ -221,13 +221,7 @@ This assurance is provided jointly with the Trust's statutory information govern
 The legacy medical devices identified in Incident 2 also raise clinical safety considerations, not only technical ones: changes to how these devices are managed should have regard to the clinical safety standards DCB0129 and DCB0160 and relevant MHRA medical device cybersecurity guidance, in addition to standard IT asset and patch management practice.
 
 
-# 7. Your Role
-
-You have been assigned as:
-
-## Cyber Security GRC Analyst
-
-Your responsibilities are to:
+# 7. Required Deliverables
 
 ### 1. Perform a Cybersecurity Gap Assessment
 
