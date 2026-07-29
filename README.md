@@ -14,5 +14,3 @@ This repository contains the deliverables produced during that engagement, demon
 ## Navigation
 
 Start with **[NAVIGATION](NAVIGATION.md)** — the master index of every document in the programme, organized by phase, with completion status for each. Every phase folder (`01-Discovery/`, `02-Asset-Management/`, etc.) also has its own `README.md` with the same index scoped to that folder, plus links to the previous and next phase, so you can navigate either from the top or folder-by-folder.
-
-**Recruiter or hiring manager?** See **[016-ProjectOverview](016-ProjectOverview/001-project_overview.md)** — a first-person account (outside the fictional case study) of how this repository was built, the tools used, and what it demonstrates.
